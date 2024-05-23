@@ -1,0 +1,78 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Weather.png",
+      "title": "Weather App",
+      "description": "",
+      "link": "View In Github",
+      "project_link": "https://github.com/finntechnology/Weather-App.git"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "",
+      "link": "View In Github",
+      "project_link": ""
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "",
+      "link": "View In Github",
+      "project_link": ""
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "",
+      "link": "View In Github",
+      "project_link": ""
+    },
+    {
+      "id": "5",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "",
+      "link": "View In Github",
+      "project_link": ""
+    },
+    {
+      "id": "6",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "",
+      "link": "View In Github",
+      "project_link": ""
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "",
+      "description": "Finn is a true professional. He was able to deliver a complex web application on time and within budget. his knowledge in web development is top-notch, and your communication skills made the entire process smooth and efficient.",
+      "author_name": "Mr Yusuf",
+      "author_designation": "Stackweb Technologies"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "",
+      "description": "The website you build looks great but also performs flawlessly. your knowledge in React.js is impressive, and your professionalism is unmatched. We will definitely be using them for future projects.",
+      "author_name": "Mrs Blessing ",
+      "author_designation": "Base University"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "",
+      "description": "What a beautiful, user friendly website that helped us attract new customers and grow our business. Your attention to detail are truly impressive.",
+      "author_name": "Dr Rufus ",
+      "author_designation": "ABU Zaria"
+    }
+  ]
+}
