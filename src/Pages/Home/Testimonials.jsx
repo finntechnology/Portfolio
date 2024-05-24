@@ -15,7 +15,7 @@ export default function Testimonial() {
   };
 
   return (
-    <div className="image_container">
+    <div className="image_container" id="testimonial">
       <h1 className="">Clients Feedback</h1>
       <div style={containerStyles} className="containerStyles">
         <ImageSlider slides={slides} />
