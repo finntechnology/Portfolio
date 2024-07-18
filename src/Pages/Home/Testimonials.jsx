@@ -5,8 +5,8 @@ export default function Testimonial() {
     { url: "/image-1.jpg", title: "beach" },
     { url: "/image-2.jpg", title: "boat" },
     { url: "/image-3.jpg", title: "forest" },
-    { url: "/image-4.jpg", title: "city" },
-    { url: "/image-5.jpg", title: "italy" },
+    { url: "/image.jpg", title: "city" },
+    { url: "/image.jpg", title: "italy" },
   ];
   const containerStyles = {
     // width: "600px",
